@@ -29,7 +29,7 @@ Ensure you have Python 3.10 or later installed. You can download it from [python
 ### Step 2: Clone the Project
 Download the FAQ Assistant files by running the following commands:
 
-git clone https://github.com/TejashreeBetgar/AI-Powered-QA-system-using-LangChain-and-Dynamic-Feedback-Mechanism.git
+git clone https://github.com/Hitakshi20/AI-Powered-QA-system-using-LangChain-and-Dynamic-Feedback-Mechanism.git
 cd AI-Powered-QA-system-using-LangChain-and-Dynamic-Feedback-Mechanism
 
 ### Step 3: Install Dependencies
